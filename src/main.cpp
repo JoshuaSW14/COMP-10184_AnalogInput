@@ -1,3 +1,6 @@
+//I, Joshua Symons-Webb, 000812836 certify that this material is my original work. No
+//other person's work has been used without due acknowledgement.
+
 #include <Arduino.h>
 
 void setup() {
